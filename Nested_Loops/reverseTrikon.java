@@ -15,5 +15,6 @@ public class reverseTrikon {
                 System.out.print(j+" ");
             System.out.println();
         }
+        in.close();
     }
 }

@@ -17,5 +17,6 @@ public class reverse2 {
             System.out.println();
             p++;
         }
+        in.close();
 }
 }
