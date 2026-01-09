@@ -18,7 +18,6 @@ public class NathuRamGodse {
                 st1 = st1 + fn.charAt(i + 1) + '.';
             }
         }
-        System.out.println(st1);
         fn = st1.concat(sn);
         System.out.println(fn);
         in.close();
