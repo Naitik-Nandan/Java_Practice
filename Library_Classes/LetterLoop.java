@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LetterLoop {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("What's The Limit?");
+        System.out.println("What's The Limit? (Write Capital Letter)");
         char ch = in.next().charAt(0);
         int chr = (int)ch;
         int i = 0,j=0;
