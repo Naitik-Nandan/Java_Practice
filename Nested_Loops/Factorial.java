@@ -13,7 +13,7 @@ public class Factorial {
         while (n>0) {
             d = n%10;
             for (int j = 1 ; j<=d ; j++) {
-                sumn = sumn*j;
+                sumn *=j;
             }
             sum +=sumn;
             sumn=1;

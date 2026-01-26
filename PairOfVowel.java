@@ -12,5 +12,6 @@ public class PairOfVowel {
             System.out.print(w+", ");
             }
         }
+        in.close();
     }
 }

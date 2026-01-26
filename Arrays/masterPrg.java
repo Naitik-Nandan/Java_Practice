@@ -54,5 +54,6 @@ int rd=0;
                 System.out.print("2");
             System.out.println();
     }
+    in.close();
 }
 }

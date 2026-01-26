@@ -21,7 +21,6 @@ public class bubble {
         System.out.print("Original Array: ");
         printArray(arr);
 
-        // TODO: Add Bubble Sort logic here
         for (int i =0 ; i<n ; i++) {
             for (int j=0; j<n-i-1; j++) {
                 if(arr[j]>arr[j+1]) {
