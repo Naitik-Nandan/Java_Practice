@@ -20,7 +20,7 @@ public class masterPrg {
 int rd=0;
     for (int i = 0 ; i<n; i++)
         for (int j =0 ; j<n; j++)
-            if(i+j==4)
+            if(i+j==n-1)
                 rd+=arr[i][j];
     System.out.println(rd);
     int ld =0;
@@ -44,7 +44,13 @@ int rd=0;
         for (int j = n-(i+2); j>=0; j--)
             rdus += arr[i][j];
     }
-    System.out.println("Elements Above Righ Diagonal:"+rdus);
+    System.out.println("Sum of Elements Above Right Diagonal:"+rdus);
+    int ldus = 0;
+    for (int i = 0 ; i<n-1 ; i++) {
+        for (int j = i+1; j<n; j++)
+            ldus += arr[i][j];
+    }
+    System.out.println("Sum of Elements Above Left Diagonal:"+ldus);
     //int arr2[][] = new int [n][n];
     for (int i =0 ; i<n ; i++) {
         for (int j=0; j<n ; j++)
