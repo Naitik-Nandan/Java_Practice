@@ -1,7 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
-        "2025"
+        "2025",
+        "Library_Classes"
     ],
     "java.project.outputPath": "bin"
 }

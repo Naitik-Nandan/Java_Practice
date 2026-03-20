@@ -1,4 +1,4 @@
-package Library_Classes;
+
 import java.util.*;
 public class NumberLetterMixedPattern {
     public static void main(String[] args) {
