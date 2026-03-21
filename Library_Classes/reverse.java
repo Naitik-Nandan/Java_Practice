@@ -15,5 +15,6 @@ public class reverse {
             i=i*10; //10 //100
         }
         System.out.println((char)rev);
+        in.close();
     }
 }

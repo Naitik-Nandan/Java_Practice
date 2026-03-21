@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Scanner;
 public class loshoGrid {
     public static void main(String[] args) {
