@@ -3,8 +3,9 @@
     "java.project.sourcePaths": [
         "Library_Classes",
         "Arrays/2026",
+        "Arrays",
         "2025",
-        "Arrays"
+        "Functions"
     ],
     "java.project.outputPath": "bin"
 }

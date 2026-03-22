@@ -23,5 +23,6 @@
                 System.out.println("Number found at index: "+((s+e)/2));
             else
                 System.out.println("Number not found");
+            in.close();
         }
     }

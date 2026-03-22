@@ -1,4 +1,4 @@
-package Functions;
+
 //import java.util.*;
 public class overload1 {
     int transform (int n) {

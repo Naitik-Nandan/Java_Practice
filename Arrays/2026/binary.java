@@ -1,5 +1,5 @@
 import java.util.*;
-public class sort {
+public class binary {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int ar[] = new int [10];
