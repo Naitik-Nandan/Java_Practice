@@ -19,7 +19,7 @@ public class overload1 {
             System.out.println();
         }
     }
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
        // Scanner in = new Scanner (System.in);
        overload1 ob = new overload1();
        // className objectName = new className():
@@ -27,5 +27,5 @@ public class overload1 {
        ob.transform("Blue");
        ob.transform('@');
 
-    }
+    }*/
 }

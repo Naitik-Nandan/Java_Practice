@@ -1,5 +1,5 @@
 import java.util.*;
-public class compositeSmall {
+class compositeSmall {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int ch;
