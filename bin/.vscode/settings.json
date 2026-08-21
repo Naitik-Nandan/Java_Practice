@@ -6,7 +6,12 @@
         "Arrays/2026",
         "Arrays",
         "2025",
-        "Functions"
+        "Functions",
+        "26-XI-PracticalTestPractice"
     ],
-    "java.project.outputPath": "bin"
+    "java.project.outputPath": "bin",
+    "code-runner.executorMap": {
+        "java": "cd \"$dir\" && java \"$fileName\""
+    },
+    "code-runner.runInTerminal": true
 }
